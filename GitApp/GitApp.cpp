@@ -3,15 +3,9 @@
 
 #include <iostream>
 
-void print() 
-{
-    std::cout << "Some string\n";
-}
-
 int main()
 {
     std::cout << "Hello World!\n";
-    std:: cout << "String"
 }
 
 
