@@ -3,14 +3,9 @@
 
 #include <iostream>
 
-void printString() {
-    std::cout << "Some string!\n";
-}
-
 int main()
 {
     std::cout << "Hello World!\n";
-    printString();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
